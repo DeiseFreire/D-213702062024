@@ -42,3 +42,5 @@ fog(x) = 3x^2 + 3x - 4
 ## Tags
 
 #latex #mathematics #functioncomposition #mathfunctions #pdflatex #overleaf #texlive #education #opensource 
+
+![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg)
