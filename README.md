@@ -37,4 +37,4 @@ fog(x) = 3x^2 + 3x - 4
 
 ## Imagem
 
-
+![imagem](https://github.com/DeiseFreire/D-213702062024/blob/main/img.png)
