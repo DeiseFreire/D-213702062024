@@ -1,4 +1,4 @@
-# Composição de Funções
+# Função composta
 
 Este repositório contém código LaTeX que demonstra a composição de funções.
 
