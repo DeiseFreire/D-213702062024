@@ -2,12 +2,12 @@
 
 Este repositório contém código LaTeX que demonstra a composição de funções.
 
-## Funções
+## :two_hearts: Funções
 
 * **f(x):** 3x - 1
 * **g(x):** x^2 + x - 1
 
-## Composição de f e g (fog)
+## :two_hearts: Composição de f e g (fog)
 
 A composição de funções f e g, denotada por fog, é definida como f aplicada ao resultado de g(x).
 
@@ -29,17 +29,17 @@ Simplificando:
 
 fog(x) = 3x^2 + 3x - 4
 
-## Resultado
+## :two_hearts: Resultado
 
 A composição das funções f e g resulta em:
 
 fog(x) = 3x^2 + 3x - 4
 
-## Imagem
+## :two_hearts: Imagem
 
 ![imagem](https://github.com/DeiseFreire/D-213702062024/blob/main/img.png)
 
-## Tags
+## :two_hearts: Tags
 
 #latex #mathematics #functioncomposition #mathfunctions #pdflatex #overleaf #texlive #education #opensource 
 
